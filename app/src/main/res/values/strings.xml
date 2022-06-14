@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Aqua Reminder</string>
+    <string name="masa_ciala">Masa Ciała(kg)</string>
+    <string name="imie">Imię</string>
+    <string name="dzienne_kalorie">Dzienne Kalorie</string>
+    <string name="zatwierdz">Zatwierdź</string>
+    <string name="dzien_dobry"></string>
+    <string name="edytuj">Edytuj</string>
+    <string name="note">Pamiętaj o nawadnianiu!</string>
+    <string name="title">Aqua reminder</string>
+    <string name="Again">AGAIN!</string>
+
+</resources>

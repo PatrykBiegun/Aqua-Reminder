@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="masa_ciala">s</string>
+    <string name="imie">s</string>
+    <string name="dzienne_kalorie">s</string>
+    <string name="zatwierdz">s</string>
+    <string name="dzien_dobry">s</string>
+    <string name="edytuj">s</string>
+    <string name="title">s</string>
+    <string name="note">s</string>
+    <string name="Again">s</string>
+</resources>

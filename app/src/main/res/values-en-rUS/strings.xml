@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Aqua Reminder</string>
+    <string name="masa_ciala">Body Weight{kg}</string>
+    <string name="imie">Name</string>
+    <string name="dzienne_kalorie">Calories</string>
+    <string name="zatwierdz">Check</string>
+    <string name="dzien_dobry">Welcome</string>
+    <string name="edytuj">Edit</string>
+    <string name="title">Aqua reminder</string>
+    <string name="note">Remember to stay hydrated!</string>
+    <string name="Again">AGAIN!</string>
+</resources>
